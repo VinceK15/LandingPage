@@ -1,0 +1,144 @@
+a {
+    font-size: 18px;
+    color: #e5e7eb; 
+}
+header {
+    background-color: #1F2937;
+}
+
+.bottombody {
+    padding-top:2%;
+    padding-bottom:2%;
+    background-color: #e5e7eb;
+}
+
+.headerlinks {
+    font-family: "Roboto";
+    font-size: 24px;
+    color: #F9FAF8;
+    padding-left: 30%;
+    display: inline-block;
+    background-color: #1F2937;
+}
+
+.headerlogo {
+    float: left;
+    margin-left: 25%;
+}
+
+.herosecondarytext {
+    font-size: 18px;
+    color: #E5E7EB;
+    width: 350px;
+}
+
+.heromaintext {
+font-size: 48px;
+color: #F9FAF8;
+font-weight: 900;
+width: 500px;
+}
+
+.lastbody {
+    width: 100%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.lastbluebody {
+    display: flex;
+    background-color: #3882F6;
+    width: 50%;
+    font-family: "Roboto";
+    text-align: center;
+    margin-left: 25%;
+    color: white;
+}
+
+.lastbodytext {
+    margin-left: 5%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    width: 1000px;
+    height: 100px;
+    border-radius: 20px;
+}
+
+.middlebody {
+display: flex;
+justify-content: space-evenly;
+margin: auto 35%;
+text-align: center;
+}
+
+.middlebodyh1 {
+    text-align: center;
+}
+
+.middlebody img {
+    border:5px solid #8893a4;
+    border-radius: 15px;
+}
+
+.middleicons {
+    display: inline;
+    position: relative;
+}
+
+.signupbtn {
+    background-color: #3882F6;
+    border: none;
+    color: white;
+    padding: 12px;
+    width: 125px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 20px;
+}
+
+.signupbtn2 {
+    border: 3px solid white;
+    font-weight: 900;
+    background-color: #3882F6;
+    color: white;
+    padding: 12px;
+    width: 125px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 25px;
+    margin-right: 50px;
+    margin-top: 40px;
+    border-radius: 20px;
+}
+
+.topbody {
+    display: grid;
+    align-items: center; 
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 5px;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.thorquote {
+    font-size: 36px;
+    font-style: italic;
+    text-align: center;
+    width: 800px;
+    margin-left: 28%;
+    color: #1F2937;
+}
+
+footer {
+    background-color: #1F2937;
+}
+
+.footerdiv {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
